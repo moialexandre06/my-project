@@ -1,6 +1,6 @@
 # README.MD:
 
-**Markdown et habituellement utiliser pour formater le fichier readme décrivant le code source d'un programme.** 
+* **Markdown et habituellement utiliser pour formater le fichier readme décrivant le code source d'un programme.** 
 
 # ***GITHUB:***
 
